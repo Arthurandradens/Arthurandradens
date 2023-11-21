@@ -1,6 +1,8 @@
 ## Hi, i'm Arthur
 
-<div>
+<p align="center">I'm science computer student 💻 <br><br> i started to work with laravel and vue.js,
+i'm studying both of this technologies and improving my skills</p>&nbsp;
+<div align="center">
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurandradens&show_icons=true&theme=dracula">
  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurandradens&layout=compact&theme=dracula">
 </div>
