@@ -1,8 +1,7 @@
 ## Hi, I'm Arthur 👋
 
 <p align="center">
-  I'm a Computer Science student 💻 <br><br>
-  Currently studying Java with Spring Boot and enhancing my backend development skills.
+  I'm a Backend Developer 💻 <br><br>
 </p>
 
 <div align="center">
